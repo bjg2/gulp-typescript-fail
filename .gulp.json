@@ -1,0 +1,4 @@
+{
+  "flags.silent": true,
+  "flags.gulpfile": "other_folder/gulpfile.ts"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "gulp-typescript-fail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjg2/gulp-typescript-fail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjg2/gulp-typescript-fail/issues"
+  },
+  "homepage": "https://github.com/bjg2/gulp-typescript-fail#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulpclass": "^0.2.0",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.3"
+  }
+}
